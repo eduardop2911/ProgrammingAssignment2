@@ -1,4 +1,4 @@
-# Assignment 2 1: Inverse of a matrix
+# Assignment 2 : Inverse of a matrix
 
 # First Function
 
